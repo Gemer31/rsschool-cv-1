@@ -42,6 +42,19 @@
 
     WayUp(2019) - Web Layout Designer: Getting Started.
 
+7.  ### Languages:
+     - Ukranian 
+     - Russian
+     - English (a2)
+
+ 
+
+8. ### Education
+      Kyiv National University of Technologies and Design (KNUTD)Kyiv National University of Technologies and Design (KNUTD)  
+
+       Master of Electromechanics, Engineer of ElectromechanicsMaster of Electromechanics, Engineer of Electromechanics 2016 - 2018
+   
+
  
 
 
